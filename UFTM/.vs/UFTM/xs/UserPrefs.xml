@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FD6C04F0-FCDE-4368-8284-743C1E3B1CAA}|Default">
+  <MonoDevelop.Ide.ItemProperties.UFTM PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/HomeController.cs">
+    <Files>
+      <File FileName="UFTM.csproj" Line="1" Column="1" />
+      <File FileName="DAL/PlayerContext.cs" Line="2" Column="19" />
+      <File FileName="Controllers/HomeController.cs" Line="20" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

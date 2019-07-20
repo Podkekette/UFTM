@@ -26,7 +26,6 @@
       "resolved": "https://registry.npmjs.org/amdefine/-/amdefine-1.0.1.tgz",
       "version": "1.0.1"
     },
-    "angular": "^1.7.8",
     "ansi-colors": {
       "dev": true,
       "integrity": "sha512-SFKX67auSNoVR38N3L+nvsPjOE0bybKTYbkf5tRvushrAPQ9V75huw0ZxBkKVeRU9kqH3d6HA4xTckbwZ4ixmA==",
@@ -517,6 +516,7 @@
       "resolved": "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.1.15.tgz",
       "version": "4.1.15"
     },
+    "grunt": "^1.0.4",
     "gulp-sass": {
       "dev": true,
       "integrity": "sha512-q8psj4+aDrblJMMtRxihNBdovfzGrXJp1l4JU0Sz4b/Mhsi2DPrKFYCGDwjIWRENs04ELVHxdOJQ7Vs98OFohg==",

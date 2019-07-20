@@ -17,7 +17,7 @@ namespace UFTM.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "H'ai ton mail";
+            ViewData["Message"] = "J'ai ton mail";
 
             return View();
         }
